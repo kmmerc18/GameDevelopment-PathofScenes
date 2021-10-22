@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{73A57B1A-DF5F-9D7D-3DF7-33263238530F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PathTracking.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SceneLoader.cs" Line="18" Column="1" />
+      <File FileName="Assets/Scripts/PathTracking.cs" Line="29" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment _6" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PathTracking.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="92468e98-3f3f-4c21-a7fc-5867bee2b288" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
